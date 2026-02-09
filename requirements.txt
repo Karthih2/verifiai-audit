@@ -2,16 +2,9 @@
 streamlit==1.28.1
 
 # Dependencies
-pandas==2.0.3
+pandas==1.5.3
+
 PyPDF2==3.0.1
 google-generativeai==0.3.0
 
-# Fix build errors
-setuptools>=67.0.0
-wheel
 
-# Optional: console output
-rich==14.3.2
-markdown-it-py==4.0.0
-mdurl==0.1.2
-pygments==2.19.2
