@@ -1,16 +1,16 @@
-# Core
+# Core app
 streamlit==1.28.1
 
-# Data & PDF handling
+# Dependencies
 pandas==2.0.3
 PyPDF2==3.0.1
 google-generativeai==0.3.0
 
-# Build dependencies (fixes pkg_resources error)
+# Fix build errors
 setuptools>=67.0.0
 wheel
 
-# Optional (for nicer console output)
+# Optional: console output
 rich==14.3.2
 markdown-it-py==4.0.0
 mdurl==0.1.2
