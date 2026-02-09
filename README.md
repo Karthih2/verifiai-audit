@@ -18,13 +18,12 @@
 
 ## 🖼️ Visual Overview
 
-> *(Image placeholders — replace with screenshots or diagrams)*
-
-![VerifiAI Dashboard](assets/dashboard_placeholder.png)
+![VerifiAI Dashboard](https://github.com/Karthih2/verifiai-audit/blob/main/results/Result%201.png)
 *Streamlit-based dashboard showing manuscript upload, dataset profiling, and integrity score.*
 
-![Audit Flow](assets/pipeline_placeholder.png)
+![Audit Flow](https://github.com/Karthih2/verifiai-audit/blob/main/results/Result%202.png) 
 *End-to-end forensic auditing pipeline: Manuscript → Dataset → Integrity Report.*
+![Audit Flow](https://github.com/Karthih2/verifiai-audit/blob/main/results/Result%203.png) 
 
 ---
 
@@ -169,3 +168,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 Inspired by the growing need for **transparent, reproducible, and trustworthy AI research**.
 
 > *“Science advances fastest when claims and data speak the same truth.”*
+
