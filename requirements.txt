@@ -7,4 +7,5 @@ pandas==1.5.3
 PyPDF2==3.0.1
 google-generativeai==0.3.0
 
-
+pdfplumber==0.11.0
+python-dotenv==1.0.0
